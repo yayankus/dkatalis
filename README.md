@@ -60,6 +60,6 @@ Run this script for running test
 ```bash
 python compare_files.py ${PATH_TO_FILE_A} ${PATH_TO_FILE_B}
 ```
-e.g : `python compare_files.py files/sample_a.txt files/sample_b.txt`
+e.g : `python scripts/compare_files.py files/sample_c.txt files/sample_d.txt`
 
 It will be error if we not input two files on the argument. Also will error if we set the wrong path file (File Not Found).
